@@ -48,11 +48,11 @@ uv run -m scripts.process_rte_file
 ### Notebooks 📒
 
 1. Data Analysis ```notebooks/data_analysis.ipynb```
- - Data exploration: visualizes seasonality, weekly/daily patterns, temperature–load relationships, etc.
+    - Data exploration: visualizes seasonality, weekly/daily patterns, temperature–load relationships, etc.
 
 2. Interactive Training ```notebooks/interactive_training.ipynb```
- - Train the different baselines (ARIMAX / Linear / GAM / CatBoost).
- - Live plots of predictions, residuals, and metrics.
+    - Train the different baselines (ARIMAX / Linear / GAM / CatBoost).
+    - Live plots of predictions, residuals, and metrics.
 
 ---
 
