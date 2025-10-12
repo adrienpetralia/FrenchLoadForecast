@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Project
+catboost_info/
+*.xls
+*.csv
+*.lock
+!outputs/rte_run_metrics.csv
+!outputs/rte_run_preds.csv

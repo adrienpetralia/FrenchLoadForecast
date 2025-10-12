@@ -1,0 +1,21 @@
+{
+  "models":[
+    "arimax",
+    "linreg",
+    "gam",
+    "catboost"
+  ],
+  "ensemble":"BOA",
+  "train_years":[
+    2018,
+    2023
+  ],
+  "test_years":[
+    2023,
+    2024
+  ],
+  "date_window":[
+    "2024-01-01",
+    "2024-12-31"
+  ]
+}
